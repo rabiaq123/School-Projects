@@ -1,2 +1,7 @@
 # Academic Projects
-Contains some academic projects completed through university courses.
+
+Academic projects in this folder belong to the following university-level courses:
+
+* CIS2430: Object-Oriented Programming
+* CIS3110: Operating Systems
+* CIS3490: The System and Analysis of Computer Algorithms
