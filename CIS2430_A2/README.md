@@ -1,7 +1,5 @@
-# README.md
-
-CIS2430*S20
-Assignment 2
+# CIS2430*S20 (Object-Oriented Programming) Assignment 2
+A game modeled after the 1977 game Colossal Caves, developed using OOP principles with Java.
 
 ## Author Information
 * Name: Rabia Qureshi
@@ -40,4 +38,3 @@ By the action of submitting this work for grading, I certify that this assignmen
 study. I also certify that no parts of this assignment have previously been submitted for assessment in any other 
 course, except where specific permission has been granted. Finally, I certify that I have not copied in part or whole
 or otherwise plagiarized the work of other persons.
-
