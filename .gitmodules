@@ -1,0 +1,12 @@
+[submodule "CIS2430_A2"]
+	path = CIS2430_A2
+	url = https://github.com/rabiaq123/CIS2430_A2.git
+[submodule "CIS3110_A4"]
+	path = CIS3110_A4
+	url = https://github.com/rabiaq123/CIS3110_A4.git
+[submodule "CIS3110_A3"]
+	path = CIS3110_A3
+	url = https://github.com/rabiaq123/CIS3110_A3.git
+[submodule "CIS3490_A3"]
+	path = CIS3490_A3
+	url = https://github.com/rabiaq123/CIS3490_A3.git
