@@ -12,7 +12,7 @@
 	url = https://github.com/rabiaq123/CIS3490_A3.git
 [submodule "CIS3750"]
 	path = CIS3750
-	url = https://github.com/SachJay/CIS3750_JS.git
+	url = https://github.com/rabiaq123/CIS3750_JS.git
 [submodule "CIS2750"]
 	path = CIS2750
 	url = https://github.com/rabiaq123/CIS2750.git
