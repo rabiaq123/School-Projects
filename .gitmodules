@@ -25,3 +25,15 @@
 [submodule "CIS3530_A3"]
 	path = CIS3530_A3
 	url = https://github.com/rabiaq123/CIS3530_A3.git
+[submodule "CIS3190_A1"]
+	path = CIS3190_A1
+	url = https://github.com/rabiaq123/CIS3190_A1.git
+[submodule "CIS3190_A2"]
+	path = CIS3190_A2
+	url = https://github.com/rabiaq123/CIS3190_A2.git
+[submodule "CIS3190_A3"]
+	path = CIS3190_A3
+	url = https://github.com/rabiaq123/CIS3190_A3.git
+[submodule "CIS3190_A4"]
+	path = CIS3190_A4
+	url = https://github.com/rabiaq123/CIS3190_A4.git
